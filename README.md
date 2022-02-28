@@ -39,11 +39,11 @@ In the field, enter your API key, which you will obtain by creating a new API ke
   $target = 'tr'; //The language you want to translate
 ```
 
-Enter the 2-digit language code of the Source and Target languages in the fields. You can access the language codes for languages at https://cloud.google.com/translate/docs/languages.
+Enter the language code of the Source and Target languages in the variables ($source and $target). You can access the language codes for languages at https://cloud.google.com/translate/docs/languages.
 
 Finally, you can get the translation result by calling the translate() function.
 Sample:
 ```php
   echo translate('Hello World!');
-  //Output: Hello World!
+  //Output: Merhaba Dünya!
 ```
