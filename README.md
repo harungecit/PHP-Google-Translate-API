@@ -1,3 +1,12 @@
+<div align="center">
+    <a href="https://php.net">
+        <img
+            alt="PHP"
+            src="https://www.php.net/images/logos/new-php-logo.svg"
+            width="150">
+    </a>
+</div>
+
 # PHP-Google-Translate-API
 It is a function that performs translation using PHP and Google Translate API.
 
